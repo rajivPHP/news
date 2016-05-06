@@ -1,7 +1,581 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa38ee94-e3a2-4d62-9058-6d684c357c2c" name="Default" comment="" />
+    <list default="true" id="aa38ee94-e3a2-4d62-9058-6d684c357c2c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/details_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/details_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/swf/flashExport.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/Sorting icons.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/sort_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/sort_asc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/sort_both.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/sort_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/images/sort_desc_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/Contributing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/column_render.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/complex_header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/defaults.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/dom_multiple_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/dom_toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/dt_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/events_live.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/footer_callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/html5-data-attributes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/html5-data-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/language_file.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/length_menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/object_dom_read.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/row_callback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/row_grouping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/advanced_init/sort_direction_control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/custom_data_flat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/custom_data_property.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/arrays.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/arrays_custom_prop.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/arrays_subobjects.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/objects.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/objects_deep.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/objects_root_array.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/objects_subarrays.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/data/orthogonal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/deep.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/defer_render.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/null_data_source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/objects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/objects_subarrays.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/orthogonal-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/ajax/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/add_row.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/api_in_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/counter_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/highlight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/multi_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/multi_filter_select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/regex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/row_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/select_row.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/select_single_row.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/show_hide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/api/tabs_and_scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/alt_pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/comma-decimal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/complex_header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/dom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/filter_only.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/flexible_width.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/hidden_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/language.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/multi_col_sort.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/multiple_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/scroll_x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/scroll_xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/scroll_y.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/scroll_y_dynamic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/state_save.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/table_sorting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/basic_init/zero_configuration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/data_sources/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/data_sources/dom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/data_sources/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/data_sources/js_array.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/data_sources/server_side.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/dom_sort.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/range_filtering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/sorting_auto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/plug-ins/sorting_manual.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/examples.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/syntax/Syntax Highlighter license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/syntax/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/resources/syntax/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/custom_vars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/defer_loading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/ids.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/jsonp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/object_data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/pipeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/post.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/row_details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/ids-arrays.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/ids-objects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/jsonp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/objects.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/postgres.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/server_processing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/sqlite.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/sqlserver.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/scripts/ssp.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/select_rows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/server_side/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/bootstrap4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/cell-border.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/compact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/display.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/hover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/jqueryUI.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/material.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/no-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/order-column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/row-border.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/semanticui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/stripe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/examples/styling/uikit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/css/autoFill.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/alwaysAsk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/fills.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/focus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/keyTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/autoFill.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/dataTables.autoFill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/AutoFill/js/dataTables.autoFill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.bootstrap4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.bootstrap4.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/buttons.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/common.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/css/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/api/addRemove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/api/enable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/api/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/api/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/columnGroups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/columnsToggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/restore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/stateSave.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/column_visibility/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/copyi18n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/filename.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/hidden.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/pdfMessage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/pdfPage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/swfPath.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/flash/tsv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/copyi18n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/filename.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/outputFormat-function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/outputFormat-orthogonal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/pdfImage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/pdfMessage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/pdfOpen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/pdfPage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/html5/tsv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/className.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/collections-autoClose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/collections-sub.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/collections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/keys.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/pageLength.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/autoPrint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/customisation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/print/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/bootstrap4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.bootstrap4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.bootstrap4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.colVis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.colVis.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.flash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.html5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/buttons.print.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/dataTables.buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Buttons/js/dataTables.buttons.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/css/colReorder.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/col_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/new_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/predefined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/realtime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/reset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/colvis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/fixedcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/fixedheader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/server_side.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/integration/state_save.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/styling/alt_insert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/js/dataTables.colReorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/ColReorder/js/dataTables.colReorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/css/fixedColumns.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/colvis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/css_size.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/index_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/left_right_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/right_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/server-side-processing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/size_fixed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/size_fluid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/initialisation/two_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/integration/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/integration/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/integration/select-checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/integration/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/col_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/colvis.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/rowspan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/examples/styling/server-side-processing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/js/dataTables.fixedColumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/css/fixedHeader.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/integration/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/integration/colreorder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/integration/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/integration/responsive-bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/integration/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/enable-disable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/header_footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/horizontal-scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/offset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/show-hide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/options/two_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/js/dataTables.fixedHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/css/keyTable.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/server-side.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/initialisation/stateSave.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/styling/focusStyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/js/dataTables.keyTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/KeyTable/js/dataTables.keyTable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/css/responsive.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/column-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/custom-renderer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/disable-child-rows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/right-column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/child-rows/whole-row-control.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/auto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/colreorder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/column-visibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/columnPriority.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/fixedHeader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/column-control/init-classes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/bootstrap-modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/foundation-modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/immediateShow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/jqueryui-modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/display-types/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/className.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/new.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/initialisation/option.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/compact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/examples/styling/scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/dataTables.responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/dataTables.responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Responsive/js/responsive.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/css/rowReorder.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/defaults.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/restrictedOrdering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/reorderClass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/examples/styling/snapX.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/js/dataTables.rowReorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/RowReorder/js/dataTables.rowReorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/css/scroller.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/data/2500.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/data/ssp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/api_scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/fixedColumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/large_js_source.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/server-side_processing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/initialisation/state_saving.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/js/dataTables.scroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Scroller/js/dataTables.scroller.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/css/select.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/api/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/api/get.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/api/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/blurable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/cells.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/deferRender.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/i18n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/multi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/reload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/initialisation/single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/styling/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/styling/foundation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/styling/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/examples/styling/jqueryui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/js/dataTables.select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/extensions/Select/js/dataTables.select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.bootstrap4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.bootstrap4.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.jqueryui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.jqueryui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.material.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.material.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.semanticui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.semanticui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.uikit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/dataTables.uikit.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/jquery.dataTables.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/css/jquery.dataTables_themeroller.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.bootstrap4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.bootstrap4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.jqueryui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.material.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.semanticui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.semanticui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.uikit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/dataTables.uikit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/jquery.dataTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/jquery.dataTables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dataTable/media/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/admin/add_news_category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/admin/admin_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/admin/functions/admin_functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/admin/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/user/user_menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.php" afterPath="$PROJECT_DIR$/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/functions.php" afterPath="$PROJECT_DIR$/functions/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/admin/dashboard.php" afterPath="$PROJECT_DIR$/pages/admin/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/check_login.php" afterPath="$PROJECT_DIR$/pages/check_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/user/dashboard.php" afterPath="$PROJECT_DIR$/pages/user/dashboard.php" />
+    </list>
     <ignored path="tamil.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -16,30 +590,100 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="tamil" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="check_login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/check_login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="0">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="check_login.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/check_login.php">
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="285">
+              <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
               <folding>
-                <element signature="e#6#90#0#PHP" expanded="true" />
-                <marker date="1462287385545" expanded="true" signature="836:866" placeholder="..." />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/admin_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-284">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_news_category.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/add_news_category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/user/user_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/admin/functions/admin_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <marker date="1462540489580" expanded="true" signature="625:692" placeholder="INSERT INTO `news_category`... " />
+                <marker date="1462540489580" expanded="true" signature="991:1018" placeholder="SELECT * FRO... news_category" />
+                <marker date="1462540489580" expanded="true" signature="1213:1258" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -48,52 +692,19 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
-                <marker date="1462287098217" expanded="true" signature="622:760" placeholder="INSERT INTO employees... " />
-                <marker date="1462287098217" expanded="true" signature="1242:1369" placeholder="UPDATE emplo... " />
-                <marker date="1462287098217" expanded="true" signature="1728:1751" placeholder="SELECT * FRO... employees" />
-                <marker date="1462287098217" expanded="true" signature="2246:2281" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2292" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2297" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2306" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2322" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2336" placeholder="SELECT * FRO... users" />
-                <marker date="1462287098217" expanded="true" signature="2246:2337" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+                <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+                <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+                <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/user/dashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-              <folding>
-                <element signature="e#6#90#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -107,17 +718,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/pages/admin/index.php" />
         <option value="$PROJECT_DIR$/pages/user/index.php" />
-        <option value="$PROJECT_DIR$/functions/functions.php" />
-        <option value="$PROJECT_DIR$/pages/check_login.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/pages/admin/dashboard.php" />
         <option value="$PROJECT_DIR$/config/config.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pages/check_login.php" />
+        <option value="$PROJECT_DIR$/pages/admin/logout.php" />
+        <option value="$PROJECT_DIR$/pages/user/dashboard.php" />
+        <option value="$PROJECT_DIR$/pages/admin/add_news_category.php" />
+        <option value="$PROJECT_DIR$/functions/functions.php" />
+        <option value="$PROJECT_DIR$/pages/admin/functions/admin_functions.php" />
+        <option value="$PROJECT_DIR$/pages/admin/admin_menu.php" />
+        <option value="$PROJECT_DIR$/pages/admin/dashboard.php" />
       </list>
     </option>
   </component>
@@ -126,10 +745,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1378" />
+    <option name="width" value="1370" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -157,6 +779,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +826,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="user" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,16 +847,6 @@
               <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tamil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tamil" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="functions" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -249,20 +862,43 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tamil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tamil" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataTable" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\public_html\bitbucket\tamil\js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -280,6 +916,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -293,6 +935,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="aa38ee94-e3a2-4d62-9058-6d684c357c2c" name="Default" comment="" />
@@ -301,34 +946,46 @@
       <option name="presentableId" value="Default" />
       <updated>1462275416655</updated>
       <workItem from="1462275418591" duration="13684000" />
+      <workItem from="1462357255253" duration="681000" />
+      <workItem from="1462512591411" duration="3308000" />
+      <workItem from="1462520586385" duration="9093000" />
+      <workItem from="1462539241868" duration="3185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13684000" />
+    <option name="totallyTimeSpent" value="29951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
+    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25417298" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27251908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -338,15 +995,49 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+    <entry file="file://$PROJECT_DIR$/pages/check_login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="529" column="16" selection-start-line="529" selection-start-column="16" selection-end-line="529" selection-end-column="16" />
+        <state relative-caret-position="459">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/add_news_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/user_menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -356,11 +1047,148 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/user/dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/functions/admin_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
+            <marker date="1462540489580" expanded="true" signature="625:692" placeholder="INSERT INTO `news_category`... " />
+            <marker date="1462540489580" expanded="true" signature="991:1018" placeholder="SELECT * FRO... news_category" />
+            <marker date="1462540489580" expanded="true" signature="1213:1258" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+            <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+            <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/check_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/add_news_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/user_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/admin_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+            <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+            <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_old.php" />
+    <entry file="file://$PROJECT_DIR$/pages/check_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/startbootstrap-sb-admin-2-1.0.8/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -369,16 +1197,50 @@
         <state relative-caret-position="1122">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
-            <marker date="1462287098217" expanded="true" signature="622:760" placeholder="INSERT INTO employees... " />
-            <marker date="1462287098217" expanded="true" signature="1242:1369" placeholder="UPDATE emplo... " />
-            <marker date="1462287098217" expanded="true" signature="1728:1751" placeholder="SELECT * FRO... employees" />
-            <marker date="1462287098217" expanded="true" signature="2246:2281" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2292" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2297" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2306" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2322" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2336" placeholder="SELECT * FRO... users" />
-            <marker date="1462287098217" expanded="true" signature="2246:2337" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+            <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+            <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_old.php" />
+    <entry file="file://$PROJECT_DIR$/pages/check_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+            <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+            <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
           </folding>
         </state>
       </provider>
@@ -387,6 +1249,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -399,21 +1271,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="191">
+          <caret line="529" column="16" selection-start-line="529" selection-start-column="16" selection-end-line="529" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_old.php" />
+    <entry file="file://$PROJECT_DIR$/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/startbootstrap-sb-admin-2-1.0.8/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/check_login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        <state relative-caret-position="0">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dataTable/media/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2805">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ctNotify/lib/jquery.ctNotify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
-            <element signature="e#6#90#0#PHP" expanded="true" />
-            <marker date="1462287385545" expanded="true" signature="836:866" placeholder="..." />
+            <marker date="1462537002326" expanded="true" signature="654:781" placeholder="UPDATE emplo... " />
+            <marker date="1462537002326" expanded="true" signature="1140:1163" placeholder="SELECT * FRO... employees" />
+            <marker date="1462537002326" expanded="true" signature="1658:1693" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1704" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1709" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1718" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1734" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1748" placeholder="SELECT * FRO... users" />
+            <marker date="1462537002326" expanded="true" signature="1658:1749" placeholder="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/functions/admin_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1462540489580" expanded="true" signature="625:692" placeholder="INSERT INTO `news_category`... " />
+            <marker date="1462540489580" expanded="true" signature="991:1018" placeholder="SELECT * FRO... news_category" />
+            <marker date="1462540489580" expanded="true" signature="1213:1258" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/user/user_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/add_news_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="133" column="9" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/admin_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/admin/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

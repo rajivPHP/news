@@ -8,7 +8,7 @@
 /*Include Files*/
 include("../config/config.php");
 include("../functions/functions.php");
-
+session_start();
 /*Post Values*/
 $p_username = mysql_real_escape_string($_POST['username']);
 $p_password = mysql_real_escape_string($_POST['password']);
@@ -20,21 +20,19 @@ if ($connect) {
     $loginCheck = userLogin($p_username, $p_password, $p_category);
     //echo "<pre>";print_r($loginCheck);exit;
     if ($loginCheck && $loginCheck['1']['user_category'] == 0) {
-        session_start();
         $_SESSION['username'] = $p_username;
         $_SESSION['user_category'] = $p_category;
+        //header("location:pages/admin/dashboard.php");
         $url = "pages/admin/dashboard.php";
     } else if ($loginCheck && $loginCheck['1']['user_category'] == 1) {
-        session_start();
         $_SESSION['username'] = $p_username;
         $_SESSION['user_category'] = $p_category;
-        //header("location:user/dashboard.php");
+        // header("location:pages/user/dashboard.php");
         $url = "pages/user/dashboard.php";
     } else {
-        $url = "./dashboard.php";
-        //header("location:../dashboard.php");
+        $url = "./index.php";
+       // header("location:../dashboard.php");
     }
 }
 echo $url;
-
 ?>

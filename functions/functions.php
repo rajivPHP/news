@@ -6,9 +6,10 @@ function connectDB($hostname, $username, $password, $db_name) {
     global $password;
     global $db_name;
     global $err_msg;
+	mysql_set_charset('utf8');
     $connect = mysql_connect($hostname, $username, $password);
     if ($connect) {
-        $selectDB = mysql_select_db($db_name);
+    	$selectDB = mysql_select_db($db_name);
         return true;
     } else {
         $err_msg = "Could not Connect to DB" . mysql_error();
@@ -16,21 +17,6 @@ function connectDB($hostname, $username, $password, $db_name) {
     }
 }
 
-function addEmployee($firstName, $lastName, $extension, $email, $jobTitle) {
-    global $connect;
-    global $err_msg;
-    if ($connect) {
-        $sqlAddEmployee = "INSERT INTO employees(firstName,lastName,extension,email,jobTitle) 
-				VALUES('$firstName','$lastName','$extension','$email','$jobTitle')";
-        $resultAddEmployee = mysql_query($sqlAddEmployee);
-        $err_msg = "Employee added was successful" . mysql_error();
-        $rows = mysql_num_rows($resultAddEmployee);
-        return $rows;
-    } else {
-        $err_msg = "Could not Add Employees" . mysql_error();
-        return false;
-    }
-}
 
 function updateEmployee($firstName, $lastName, $extension, $email, $jobTitle) {
     global $connect;
@@ -77,5 +63,8 @@ function userLogin($username,$password,$user_category){
         else{
             $err_msg="Login Failed";
         }
+}
+function userLogout(){
+    header("location:../../index.php");
 }
 ?>
