@@ -22,16 +22,16 @@ if ($connect) {
     if ($loginCheck && $loginCheck['1']['user_category'] == 0) {
         $_SESSION['username'] = $p_username;
         $_SESSION['user_category'] = $p_category;
-        //header("location:pages/admin/dashboard.php");
+        //header("location:pages/admin/dashboard1.php");
         $url = "pages/admin/dashboard.php";
     } else if ($loginCheck && $loginCheck['1']['user_category'] == 1) {
         $_SESSION['username'] = $p_username;
         $_SESSION['user_category'] = $p_category;
-        // header("location:pages/user/dashboard.php");
+        // header("location:pages/user/dashboard1.php");
         $url = "pages/user/dashboard.php";
     } else {
         $url = "./index.php";
-       // header("location:../dashboard.php");
+        // header("location:../dashboard1.php");
     }
 }
 echo $url;

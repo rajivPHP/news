@@ -111,6 +111,7 @@ if (isset($_SESSION['username'])) {
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <?php
 } else {
+	header("location:../../index.php");
     ?>
 <?php } ?>
 <script type="text/javascript">
